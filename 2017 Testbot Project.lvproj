@@ -114,6 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Collision Main.vi" Type="VI" URL="../Mechanism Code/Collision Main.vi"/>
 			<Item Name="LiftMain.vi" Type="VI" URL="../Mechanism Code/LiftMain.vi"/>
 			<Item Name="ServoMain.vi" Type="VI" URL="../Mechanism Code/ServoMain.vi"/>
+			<Item Name="ShooterMain.vi" Type="VI" URL="../Mechanism Code/ShooterMain.vi"/>
 		</Item>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
